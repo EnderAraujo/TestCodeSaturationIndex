@@ -1,0 +1,15 @@
+Descripción: Programa para predecir  la tendencia incrustante (o  índice de saturación)  de calcita, en sistemas de producción
+             de crudo asociado. Esencialmente, crudo (petróleo), gas y agua.
+             Se cálcula un valor numérico del índice de saturación, para una determinada composición de agua (se requieren los
+             análisis químicos) a una temperatura (temperatura en la cuál se quiere conocer si se formará o no la incrustación),
+             se utilizan las ecuaciones descrita por John E. Oddo y Mason B. Tomson, en sus correspondientes artículos publicados
+             en 1982 y 1994.
+
+             (i)  Oddo, J. E., & Tomson, M. B. (1982, July 1). Simplified Calculation of CACO3 Saturation at High Temperatures and 
+                  Pressures in Brine Solutions. Society of Petroleum Engineers. doi:10.2118/10352-PA
+             (ii) Oddo, J. E., & Tomson, M. B. (1994). Why scale forms in the oil field and methods to predict it. SPE Production 
+                  & Facilities, 9(01), 47-54.
+
+Programa:  SaturationIndex.f03
+
+Nota: Ejercicio académico.
